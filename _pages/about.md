@@ -27,7 +27,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2021.09 - 2024.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HEBUT.svg" width="23pt"></a> 河北工业大学人工智能与数据科学学院，硕士 
+- *2021.09 - 2024.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HEBUT.svg" width="20pt"></a> 河北工业大学人工智能与数据科学学院，硕士 
 - *2017.09 - 2021.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SDUST.svg" width="20pt"></a> 山东科技大学 电气信息系,  本科
 
 <span class='anchor' id='-lwzl'></span>
