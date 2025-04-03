@@ -35,7 +35,7 @@ redirect_from:
 # 📝 论文专利
 
 ### 英文
-
+IEEE sci 1区一篇
 
 <span class='anchor' id='-gzsx'></span>
 
